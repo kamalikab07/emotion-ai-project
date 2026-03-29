@@ -1,0 +1,23 @@
+.env
+__pycache__/
+*.pkl
+*.pyc
+.DS_Store
+venv/
+*.egg-info/
+```
+
+---
+
+### 3. `requirements.txt`
+```
+pandas
+scikit-learn
+joblib
+gradio
+google-generativeai
+scipy
+fastapi
+uvicorn
+python-dotenv
+requests
