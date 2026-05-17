@@ -53,7 +53,7 @@ curl -X POST "http://localhost:8000/analyze" \
 ### Home Page
 ![Homepage](screenshots/homepage.png)
 
-###Loading Page
+### Loading Page
 ![Loading](screenshots/loading.png)
 
 ### Result Page
