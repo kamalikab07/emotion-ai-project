@@ -47,3 +47,16 @@ python app.py
 curl -X POST "http://localhost:8000/analyze" \
   -H "Content-Type: application/json" \
   -d '{"text": "I feel amazing today!"}'
+
+## Screenshots
+
+### Home Page
+![Homepage](screenshots/homepage.png)
+
+###Loading Page
+![Loading](screenshots/loading.png)
+
+### Result Page
+![Story](screenshots/story.png)
+
+
